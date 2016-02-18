@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[One Ritual Can Change Anything]]></title>
+        <description><![CDATA[One Ritual Can Change Anything]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Feb 2016 18:18:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed7ddab7-f86a-4f15-bcc9-800834cdb6e0.png">]]></description>
+            <link>undefined027453d6-d4ec-4003-8c8b-5c57d996777b/index.html</link>
+            <guid isPermaLink="false">027453d6-d4ec-4003-8c8b-5c57d996777b</guid>
+            <pubDate>Thu, 18 Feb 2016 18:11:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
